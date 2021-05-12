@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.2.0](https://github.com/jeremymv2/bumper2/tree/0.2.0) (2021-05-12)
+
+[Full Changelog](https://github.com/jeremymv2/bumper2/compare/0.1.6...0.2.0)
+
+**Merged pull requests:**
+
+- added plugin dir [\#2](https://github.com/jeremymv2/bumper2/pull/2) ([jeremymv2](https://github.com/jeremymv2))
+
+## [0.1.6](https://github.com/jeremymv2/bumper2/tree/0.1.6) (2021-05-11)
+
+[Full Changelog](https://github.com/jeremymv2/bumper2/compare/0.1.5...0.1.6)
+
 ## [0.1.5](https://github.com/jeremymv2/bumper2/tree/0.1.5) (2021-05-11)
 
 [Full Changelog](https://github.com/jeremymv2/bumper2/compare/0.1.4...0.1.5)
