@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.9.0](https://github.com/jeremymv2/bumper2/tree/0.9.0) (2021-05-13)
+
+[Full Changelog](https://github.com/jeremymv2/bumper2/compare/0.8.0...0.9.0)
+
 ## [0.8.0](https://github.com/jeremymv2/bumper2/tree/0.8.0) (2021-05-12)
 
 [Full Changelog](https://github.com/jeremymv2/bumper2/compare/0.7.0...0.8.0)
